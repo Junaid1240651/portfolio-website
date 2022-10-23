@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.800d9256.css",
+    "main.js": "/portfolio-website/static/js/main.27626ba9.js",
+    "static/media/shoping-web2.png": "/portfolio-website/static/media/shoping-web2.1cb28524831ba539dff0.png",
+    "static/media/port.png": "/portfolio-website/static/media/port.9f6fbc8477eeafd3b3c1.png",
+    "static/media/shoping-web.png": "/portfolio-website/static/media/shoping-web.022df75fc8c0fbd11c27.png",
+    "static/media/tindog.png": "/portfolio-website/static/media/tindog.6a47b515143dc425d6dc.png",
+    "static/media/resume.pdf": "/portfolio-website/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/boy.png": "/portfolio-website/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/portfolio-website/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/game.png": "/portfolio-website/static/media/game.8a34663c88a6e53b10c2.png",
+    "static/media/thumbup.png": "/portfolio-website/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolio-website/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio-website/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio-website/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio-website/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio-website/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio-website/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.800d9256.css.map": "/portfolio-website/static/css/main.800d9256.css.map",
+    "main.27626ba9.js.map": "/portfolio-website/static/js/main.27626ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.800d9256.css",
+    "static/js/main.27626ba9.js"
+  ]
+}
